@@ -18,7 +18,8 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 29
-    buildToolsVersion "25.0.2"
+    buildToolsVersion "29.0.3"
+    
     defaultConfig {
         applicationId "com.qihoo360.replugin.sample.host"
         minSdkVersion 9
